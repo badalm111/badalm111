@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @badalm111
-- 👀 I’m interested in cyber security
+- 👋 Hi, I’m @Badalsingh
 - 🌱 I’m currently learning github 
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ??
